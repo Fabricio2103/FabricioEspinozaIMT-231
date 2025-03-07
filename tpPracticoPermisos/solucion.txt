@@ -1,0 +1,18 @@
+Para el archivo documento1.txt, se aplicaron los permisos 604. Esto significa que:
+- El propietario tiene permisos de lectura y escritura (rw-).
+- El grupo tiene permisos de solo lectura (r--).
+- Otros usuarios no tienen permisos (---).
+
+Para el archivo script.sh, se aplicaron los permisos 711. Esto significa que:
+- El propietario tiene permisos de lectura, escritura y ejecución (rwx).
+- El grupo y otros usuarios tienen permisos solo de ejecución (x--).
+
+Para el archivo config.cfg, se aplicaron los permisos 600. Esto significa que:
+- El propietario tiene permisos de lectura y escritura (rw-).
+- El grupo y otros usuarios no tienen permisos (---).
+
+Para el archivo secreto.key, se aplicaron los permisos 400. Esto significa que:
+- El propietario tiene permisos de solo lectura (r--).
+- El grupo y otros usuarios no tienen permisos (---).
+
+enlace del repositorio: https://github.com/Fabricio2103/FabricioEspinozaIMT-231

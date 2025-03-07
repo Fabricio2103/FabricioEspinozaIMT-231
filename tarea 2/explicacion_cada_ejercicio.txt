@@ -1,0 +1,59 @@
+Ejercicio 1
+Explicación:
+
+   El dueño (usuario) tiene permisos de lectura (4) y escritura (2), sumando 6.
+   El grupo y otros usuarios tienen solo permisos de lectura (4).
+   Por lo tanto, los permisos son 644.
+Ejercicio 2
+Explicación:
+
+    El dueño (usuario) tiene permisos de lectura (4), escritura (2) y ejecución (1), sumando 7.
+    El grupo y otros usuarios no tienen acceso, por lo que los permisos para ellos son 0.
+    Los permisos son 700.
+Ejercicio 3
+Explicación:
+
+    El dueño, grupo y otros usuarios tienen permisos de lectura (4) y escritura (2), sumando 6 para cada uno.
+    Los permisos son 666.
+Ejercicio 4
+Explicación:
+
+    El dueño tiene permisos de lectura (4) y escritura (2), sumando 6.
+    El grupo y otros usuarios no tienen acceso, por lo que los permisos para ellos son 0.
+    Los permisos son 600.
+Ejercicio 5
+Explicación:
+
+    El dueño tiene permisos de lectura (4) y escritura (2), sumando 6.
+    El grupo y otros usuarios tienen solo permisos de lectura (4).
+    Los permisos son 644.
+Ejercicio 6
+Explicación:
+
+    El dueño tiene permisos de lectura (4).
+    El grupo y otros usuarios no tienen acceso, por lo que los permisos para ellos son 0.
+    Los permisos son 400.
+Ejercicio 7
+Explicación:
+
+    El dueño tiene permisos de lectura (4), escritura (2) y ejecución (1), sumando 7.
+    El grupo y otros usuarios no tienen acceso, por lo que los permisos para ellos son 0.
+    Los permisos son 700
+Ejercicio 8
+Explicación:
+
+    El dueño, grupo y otros usuarios tienen permisos de lectura (4) y escritura (2), sumando 6 para cada uno.
+    Los permisos son 666.
+Ejercicio 9
+Explicación:
+
+    El dueño tiene permisos de lectura (4), escritura (2) y ejecución (1), sumando 7.
+    El grupo y otros usuarios tienen solo permisos de ejecución (1), sumando 1 cada uno.
+    Los permisos son 711.
+Ejercicio 10
+Explicación:
+
+    El dueño tiene permisos de lectura (4) y escritura (2), sumando 6.
+    El grupo tiene solo permisos de lectura (4).
+    Los otros usuarios no tienen acceso, por lo que los permisos para ellos son 0.
+    Los permisos son 640.
